@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad-labs.github.io/blackroad-data-pipeline/sitemap.xml
