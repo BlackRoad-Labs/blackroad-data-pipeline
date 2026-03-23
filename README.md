@@ -1,5 +1,13 @@
 # blackroad-data-pipeline
 
+> ETL data pipeline framework
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Labs](https://github.com/BlackRoad-Labs)
+
+---
+
+# blackroad-data-pipeline
+
 [![CI](https://github.com/BlackRoad-Labs/blackroad-data-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-Labs/blackroad-data-pipeline/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-proprietary-red)](LICENSE)
